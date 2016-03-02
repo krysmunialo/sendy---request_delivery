@@ -10,6 +10,19 @@ Git clone the project to your local machine.
 
 Navigate to the project folder and run "composer install"
 
+On the root folder, create a .env file with your custom settings for example;
+  APP_ENV=local
+  APP_DEBUG=true
+  APP_KEY=SomeRandomString
+  
+  DB_HOST=localhost
+  DB_DATABASE=dbname
+  DB_USERNAME=dbusername
+  DB_PASSWORD=dbpassword
+  
+  CACHE_DRIVER=file
+  SESSION_DRIVER=file
+
 #Usage
 After cloning the project.
 
