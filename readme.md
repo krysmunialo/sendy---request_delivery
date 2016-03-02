@@ -31,6 +31,9 @@ On the root folder, create a .env file with your custom settings for example;
   SESSION_DRIVER=file
 
 Migrate the tables using the command 'php artisan migrate:refresh'
+
+Run "php artisan key:generate" then replace the 'RandonString' key with the key in the 'app/config' f
+
 #Usage
 After cloning the project.
 
