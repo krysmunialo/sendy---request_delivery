@@ -3,12 +3,16 @@ This project is uses Laravel, Sendy API and Google Places API to develop a syste
 
 #Installation
 To install, make sure you have installed laravel on your computer.
-Copy the project url i.e https://github.com/krysmunialo/sendy---request_delivery
+
+Copy the project url 
+
 Git clone the project to your local machine.
+
 Navigate to the project folder and run "composer install"
 
 #Usage
 After cloning the project.
+
 Navigate to the project public folder to access the home page.
 
 #Documentation
