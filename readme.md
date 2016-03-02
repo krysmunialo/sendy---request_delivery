@@ -11,6 +11,7 @@ Git clone the project to your local machine.
 Navigate to the project folder and run "composer install"
 
 On the root folder, create a .env file with your custom settings for example;
+
   APP_ENV=local
   
   APP_DEBUG=true
